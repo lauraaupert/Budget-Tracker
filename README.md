@@ -35,6 +35,8 @@ THEN that will be shown on the page, and added to their transaction history when
 
 The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.  
 
+![image](https://user-images.githubusercontent.com/73617474/112552326-fc28a680-8d98-11eb-8ed0-7cfba27f1ac0.png). 
+
 ## QUESTIONS <a name="QUESTIONS"></a>
 For additional questions, please get in touch:  
 https://github.com/lauraaupert  
